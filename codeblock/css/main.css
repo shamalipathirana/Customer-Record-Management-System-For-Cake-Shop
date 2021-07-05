@@ -1,0 +1,66 @@
+*{
+padding: 0px;
+margin: 0px;
+}
+
+body{
+	background-image: url(../images/d.jpg);
+	background-size: cover;
+  	background-attachment: fixed;
+  	background-color: rgba(255,99,71,0.2);
+
+}
+h1{
+	font-size: 65px;
+	color: rgb(0,0,0);
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+.label {
+	font-size: 19px;
+	color: rgb(0,0,0);
+	margin-top: 20px;
+	margin-bottom: 0px;
+	font-size: normal;
+}
+.from-control{
+	background: rgba(60,179,113);
+	border: 0px;
+	border-radius: 2px;
+	border-bottom: 2px solid white;
+	font-size:21px;
+	color: rgb(0,0,0);
+	margin-top: 20px;
+}
+.btn-info{
+	margin-top: 20px;
+	margin-left: 150px;
+	width: 180px;
+	font-size: 19px;
+	color: rgb(0,0,0);
+	border-radius: 100px; 
+}
+.col-md-6{
+	background-color: rgba(206,176,176,0.4);
+	height: 1000px;
+	font-size: 19px;
+	color: rgb(255,255,255);
+	box-shadow: -1px 1px 60px 10px MediumSeaGreen inset;
+
+}
+.btn-save{
+	margin-top: 40px;
+	color: rgb(0,0,0);
+	background-color: rgba(0,0,0);
+	font-size: 19px;
+	color: rgb(255,255,255);
+}
+.data{
+	background: rgba(0,0,0);
+	border:0px;
+	border-radius: 2px;
+	border-bottom: 2px solid black;
+	font-size: 21px;
+	color:rgb(0,0,0);
+	margin-top: 20px; 
+}
